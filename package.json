@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://ayushi200116.github.io/React_Word_Counter",
+=======
+  "homepage": "https://ayushi200116.github.io/React_Word_Counter/",
+>>>>>>> bca8d77c77c6d6838715abd3c0d32c2fc98a16f3
   "name": "word-counter",
   "version": "0.1.0",
   "private": true,
